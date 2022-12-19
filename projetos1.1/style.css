@@ -63,7 +63,7 @@ html{
 /*  Home   inicio  */
 .home{
     display: flex;
-    background: url(fotos-projetos/banner-2.jpg) no-repeat;
+    background: url(estudos-de-css-e-html/banner-2.jpg) no-repeat;
     background-size: cover;
     height: 100vh;
     color: rgb(255, 255, 255);
